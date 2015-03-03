@@ -4,8 +4,8 @@
   <modelVersion>4.0.0</modelVersion>
   
   <groupId>leon.practice</groupId>
-  <artifactId>leon-practice</artifactId>
-  <name>Leon's practice</name>
+  <artifactId>java-practice</artifactId>
+  <name>Java Practice</name>
   <version>0.1.0-SNAPSHOT</version>
 
   <dependencies>
