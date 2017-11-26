@@ -3,7 +3,7 @@
 package tij.concurrency;
 
 import java.util.concurrent.*;
-import static net.mindview.util.Print.*;
+import static tij.net.mindview.util.Print.*;
 
 class Meal {
 	private final int orderNum;

@@ -3,7 +3,7 @@ package tij.concurrency;
 
 import java.util.concurrent.*;
 import java.util.*;
-import static net.mindview.util.Print.*;
+import static tij.net.mindview.util.Print.*;
 
 class Count {
 	private int count = 0;

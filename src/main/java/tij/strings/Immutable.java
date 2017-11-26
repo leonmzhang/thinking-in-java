@@ -1,7 +1,7 @@
 //: strings/Immutable.java
 package tij.strings;
 
-import static net.mindview.util.Print.*;
+import static tij.net.mindview.util.Print.*;
 
 public class Immutable {
   public static String upcase(String s) {

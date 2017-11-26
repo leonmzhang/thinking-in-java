@@ -2,7 +2,7 @@
 // Calling constructors with "this"
 package tij.initialization;
 
-import static net.mindview.util.Print.*;
+import static tij.net.mindview.util.Print.*;
 
 public class Flower {
 	int petalCount = 0;

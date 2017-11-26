@@ -1,5 +1,5 @@
-//: annotations/UseCaseTracker.java
-package annotations;
+//: tij.annotations/UseCaseTracker.java
+package tij.annotations;
 
 import java.lang.reflect.*;
 import java.util.*;

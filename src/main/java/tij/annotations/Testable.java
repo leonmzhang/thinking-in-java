@@ -1,5 +1,5 @@
-package annotations;
-import net.mindview.atunit.*;
+package tij.annotations;
+import tij.net.mindview.atunit.*;
 
 public class Testable {
   public void execute() {

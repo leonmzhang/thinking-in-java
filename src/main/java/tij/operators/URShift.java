@@ -2,7 +2,7 @@
 // Test of unsigned right shift.
 package tij.operators;
 
-import static net.mindview.util.Print.*;
+import static tij.net.mindview.util.Print.*;
 
 public class URShift {
 	public static void main(String[] args) {

@@ -2,7 +2,7 @@
 // Examination of the way the class loader works.
 package tij.typeinfo;
 
-import static net.mindview.util.Print.*;
+import static tij.net.mindview.util.Print.*;
 
 class Candy {
 	static { print("Loading Candy"); }

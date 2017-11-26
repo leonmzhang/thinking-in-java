@@ -1,5 +1,5 @@
-//: annotations/PasswordUtils.java
-package annotations;
+//: tij.annotations/PasswordUtils.java
+package tij.annotations;
 
 import java.util.*;
 

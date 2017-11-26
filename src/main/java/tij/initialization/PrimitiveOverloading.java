@@ -3,7 +3,7 @@
 
 package tij.initialization;
 
-import static net.mindview.util.Print.*;
+import static tij.net.mindview.util.Print.*;
 public class PrimitiveOverloading {
 	void f1(char x) { printnb("f1(char) "); }
 	void f1(byte x) { printnb("f1(byte) "); }

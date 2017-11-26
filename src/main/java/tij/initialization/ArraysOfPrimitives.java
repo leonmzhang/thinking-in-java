@@ -1,7 +1,7 @@
 //: initialization/ArraysOfPrimitives.java
 package tij.initialization;
 
-import static net.mindview.util.Print.*;
+import static tij.net.mindview.util.Print.*;
 
 public class ArraysOfPrimitives {
 	public static void main(String[] args) {

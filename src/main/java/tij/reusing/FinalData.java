@@ -4,7 +4,7 @@
 package tij.reusing;
 
 import java.util.*;
-import static net.mindview.util.Print.*;
+import static tij.net.mindview.util.Print.*;
 
 class Value {
 	int i; // Package access

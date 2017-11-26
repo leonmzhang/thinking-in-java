@@ -1,5 +1,5 @@
-//: annotations/UseCase.java
-package annotations;
+//: tij.annotations/UseCase.java
+package tij.annotations;
 
 import java.lang.annotation.*;
 
